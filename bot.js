@@ -184,4 +184,4 @@ client.on("message", message => { //clear
 
 
 
-client.login(process.env.TO);
+client.login(process.env.BOT_TOKEN);
